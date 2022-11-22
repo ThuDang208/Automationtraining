@@ -8,5 +8,6 @@ public class test {
                 driver.get("https://www.lambdatest.com/");
                 Thread.sleep(5000);
                 driver.close();
+                //Thu Dang
     }
 }
